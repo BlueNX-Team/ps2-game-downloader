@@ -45,7 +45,7 @@
 ![USB](./GUI/Images/screenshots/usb.png)
 
 ### Pestaña Acerca de
-![Acerca de]([./GUI/Images/screenshots/about.png](https://www.gamesgx.net/pbprbavr/eFootball-2025-PS2.jpg))
+![Acerca de](https://www.gamesgx.net/pbprbavr/eFootball-2025-PS2.jpg)
 
 > Nota: Coloca tus capturas en `GUI/Images/screenshots/` y ajusta los nombres si cambian.
 

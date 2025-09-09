@@ -43,7 +43,7 @@ Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, uni
 ![ELF](./GUI/Images/IMG_20250909_201958.jpg)
 
 ### Pestaña USB
-![USB](./GUI/Images/screenshots/usb.png)
+![USB](./GUI/Images/IMG_20250909_201958.jpg)
 
 ### Pestaña Acerca de
 ![Acerca de](./GUI/Images/IMG_20250909_201749.jpg)

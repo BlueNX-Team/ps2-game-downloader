@@ -4,7 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/tu_usuario/ps2-game-downloader?style=social)](https://github.com/tu_usuario/ps2-game-downloader/stargazers)
 
-**PS2 Game Downloader** es una aplicación moderna para descargar y gestionar juegos y ELFs para PlayStation 2. Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, unidades USB y mantener todo organizado para usarlo con OPL (Open PS2 Loader).
+**PS2 Game Downloader** es una aplicación moderna para descargar y gestionar juegos y ELFs para PlayStation 2.  
+Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, unidades USB y mantener todo organizado para usarlo con OPL (Open PS2 Loader).
 
 ---
 
@@ -45,18 +46,16 @@
 ![USB](./GUI/Images/screenshots/usb.png)
 
 ### Pestaña Acerca de
-![Acerca de](./GUI/Images/IMG_20250909-201749.png)
-
-> Nota: Coloca tus capturas en `GUI/Images/screenshots/` y ajusta los nombres si cambian.
+![Acerca de](./GUI/Images/IMG_20250909_201749.png)
 
 ---
 
 ## ⚙ Requisitos
 
-- Python 3.10 o superior
-- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-- Pillow
-- psutil
+- Python 3.10 o superior  
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)  
+- Pillow  
+- psutil  
 
 Instala dependencias con:
 

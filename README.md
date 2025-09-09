@@ -40,7 +40,7 @@ Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, uni
 ![Juegos](./GUI/Images/IMG_20250909_201847.jpg)
 
 ### Pestaña ELF
-![ELF](./GUI/Images/screenshots/elf.png)
+![ELF](./GUI/Images/IMG_20250909_201958.jpg)
 
 ### Pestaña USB
 ![USB](./GUI/Images/screenshots/usb.png)

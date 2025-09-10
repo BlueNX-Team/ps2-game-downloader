@@ -94,6 +94,14 @@ Para usar tus propios juegos y ELFs, debes configurar los archivos ini:
 > ⚠️ **Nota:** Asegúrate de que los enlaces sean RAW de GitHub, GitLab o cualquier host que permita lectura directa.
 > Modifica los archivos ini según tus propios juegos y ELFs. 
 
+
+---
+
+
+## ⚙ Licencia
+
+-Uso libre. No requiere licencia. Puedes usar, modificar y distribuir el código sin restricciones.
+
   
 
 

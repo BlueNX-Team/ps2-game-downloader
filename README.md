@@ -81,7 +81,18 @@ cd ps2-game-downloader
 ```bash
 python main.py
 ```
+---
 
 ## ⚙ Archivos ini propios
+
+Para usar tus propios juegos y ELFs, debes configurar los archivos ini:
+
+- juegos.ini: abre GUI/juegos_tab.py y edita la línea 134 con el enlace RAW de tu juegos.ini.
+- elf.ini: abre GUI/elf_downloader_tab.py y edita la línea 65 con el enlace RAW de tu elf.ini.
+
+> ⚠️ **Nota:** Asegúrate de que los enlaces sean RAW de GitHub, GitLab o cualquier host que permita lectura directa.
+> Modifica los archivos ini según tus propios juegos y ELFs. 
+
+  
 
 

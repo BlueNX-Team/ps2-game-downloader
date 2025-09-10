@@ -100,7 +100,7 @@ Para usar tus propios juegos y ELFs, debes configurar los archivos ini:
 
 ## ⚙ Licencia
 
--Uso libre. No requiere licencia. Puedes usar, modificar y distribuir el código sin restricciones.
+- Uso libre. No requiere licencia. Puedes usar, modificar y distribuir el código sin restricciones.
 
   
 

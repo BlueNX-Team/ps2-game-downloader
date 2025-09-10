@@ -1,6 +1,7 @@
 # PS2 Game Downloader 🎮
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue)](https://www.python.org/)
+![License](https://img.shields.io/badge/license-Free%20Use-green)
 
 **PS2 Game Downloader** es una aplicación moderna para descargar y gestionar juegos y ELFs para PlayStation 2.  
 Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, unidades USB y mantener todo organizado para usarlo con OPL (Open PS2 Loader).

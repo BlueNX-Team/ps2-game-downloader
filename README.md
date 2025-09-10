@@ -67,17 +67,20 @@ Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, uni
 
 ```bash
 pip install customtkinter pillow psutil
+```
 
 2. Clona el repositorio
 
 ```bash
 git clone https://github.com/tu_usuario/ps2-game-downloader.git
 cd ps2-game-downloader
+```
 
 3. Ejecutar aplicacion
 
 ```bash
 python main.py
+```
 
 ## ⚙ Archivos ini propios
 

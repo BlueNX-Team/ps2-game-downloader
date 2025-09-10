@@ -57,7 +57,9 @@ Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, uni
 - Python 3.10 o superior  
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)  
 - Pillow  
-- psutil  
+- psutil
+
+---
 
 ## ⚙ Instalación y ejecución
 

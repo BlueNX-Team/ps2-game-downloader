@@ -49,8 +49,6 @@ Su interfaz intuitiva basada en **CustomTkinter** permite manejar descargas, uni
 ### Pestaña Acerca de
 ![Acerca de](./GUI/Images/IMG_20250909_201749.jpg)
 
-> Nota: Coloca tus capturas en `GUI/Images/screenshots/` y ajusta los nombres si cambian.
-
 ---
 
 ## ⚙ Requisitos
